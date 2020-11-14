@@ -1,0 +1,230 @@
+.mr-sm-2 {
+  padding: 15px;
+  width: 250px;
+}
+
+.bell,
+.message {
+  margin-left: 20px;
+  font-size: 27px;
+  cursor: pointer;
+}
+
+.login {
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.login:hover {
+  border: none;
+}
+
+.sell a{
+  border: 7px solid black;
+  padding: 4px 20px !important ;
+  width: 80px;
+  border-radius: 25px;
+  margin-left: 20px;
+  color: #002f34;
+  border-color: #ffce22 #23e5db #3a77ff;
+  cursor: pointer;
+  background-color: white; 
+}
+.sell a:hover{
+  text-decoration: none;
+}
+
+
+.input-group > .input-group-append > .input-group-text{
+ color: white;
+ background-color: #002f34;
+ cursor: pointer;
+ margin-left: -1px;
+ border-radius: 30px
+}
+
+
+table span {
+  padding-left: 10px;
+}
+
+.grid .col {
+  padding: 0px !important;
+}
+
+.form-control {
+  padding: 25px !important;
+  margin-left: 20px;
+ 
+}
+
+.search {
+  width: 50%;
+}
+
+footer {
+  border-top: 1px solid rgba(0, 47, 52, 0.2);
+  background: #ebeeef;
+  padding: 10px;
+}
+
+ .widgets {
+  list-style: none;
+}
+
+.widgets li {
+  color: black;
+  padding: 0;
+  margin: 0; 
+}
+
+.widgets li a {
+  color: rgba(0, 47, 52, 0.64);
+}
+
+.widgets li a:hover {
+  color: rgba(0, 47, 52, 0.64);
+  text-decoration: none;
+}
+
+.bottom1 {
+  float: right;
+  list-style: none;
+} */
+
+.bottom {
+  float: left;
+  list-style: none;
+}
+
+.bottom li,
+.bottom1 li {
+  color: white;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 0;
+}
+
+.bottom li a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.footerbottom,
+.footerbottom a {
+  background: #002f34;
+  color: white;
+  padding: 10px;
+}
+
+.list-inline a {
+  color: #002f34;
+}
+
+.list-inline a:hover {
+  color: rgba(0, 47, 52, 0.64);
+  text-decoration: none;
+}
+
+.SellerCard,
+.PriceCard,
+.LocationCard {
+  margin-bottom: 25px;
+}
+
+.LocationCard p,
+.SellerCard span {
+  font-size: 13px;
+}
+
+.PriceCard span,
+.SellerCard span,
+.SellerCard p a,
+.LocationCard p {
+  color: rgba(0, 47, 52, 0.64);
+}
+
+.SellerCard button {
+  margin-top: 18px;
+}
+
+.LoginModel a {
+  color: #002f34;
+  font-weight: 600;
+  font-size: 21px;
+}
+
+.modal-body {
+  padding: 40px !important;
+}
+
+.modal-body button {
+  background-color: white;
+  border: 3px solid #002f34;
+  color: #002f34;
+  margin-bottom: 14px;
+  font-weight: 600;
+}
+
+.modal-body button:hover {
+  background-color: #002f34;
+  border: 3px solid #002f34;
+  color: white;
+}
+
+.modal-body a:hover {
+  text-decoration: none;
+}
+
+.home-top-image {
+  background-position: 50% !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  width: 100%;
+}
+
+.adsForm {
+  margin: 20px;
+  padding: 20px;
+}
+
+.adsForm .cata,
+.adsForm .location,
+.adsForm .deta,
+.adsForm .price {
+  padding: 20px;
+}
+
+.adsForm small {
+  color: gray
+}
+
+.adsForm .form-control {
+  margin-left: 0 !important;
+}
+
+.adsForm h6 {
+  margin-top: 50px;
+}
+
+
+.mobile-cata{
+  margin-top:20px ;
+  margin-bottom:20px 
+}
+
+.mobile-cata ul{
+  list-style: none;
+}
+
+.mobile-cata ul li {
+  margin-top: 7px
+}
+
+.mobile-cata ul li a{
+  color: rgba(0, 47, 52, 0.64);
+}
+
